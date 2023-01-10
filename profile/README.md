@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is UnclesBats test organisation. Used for writing blogs, thinkering and try things out.
+This is @UncleBats ![avatar](https://avatars.githubusercontent.com/unclebats?s=32) test organisation. Used for writing blogs, thinkering and try things out.
 
 <!--
 
