@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is UnclesBats test organisation. Used for writing blogs, thinkering and try things out.
+
 <!--
 
 **Here are some ideas to get you started:**
