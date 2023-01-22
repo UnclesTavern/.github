@@ -3,8 +3,10 @@
     "description": "Octo Organization CI starter workflow.",
     "iconName": "octicon hubot",
     "categories": [
-        "Epic Shit"
+        "testing",
+        "Automation"
     ],
+    "labels": ["preview"]
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
