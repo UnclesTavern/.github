@@ -3,7 +3,7 @@
     "description": "Octo Organization CI starter workflow.",
     "iconName": "octicon hubot",
     "categories": [
-        "Go"
+        "Epic Shit"
     ],
     "filePatterns": [
         "package.json$",
