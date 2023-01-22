@@ -2,10 +2,7 @@
     "name": "Octo Organization Workflow",
     "description": "Octo Organization CI starter workflow.",
     "iconName": "octicon hubot",
-    "categories": [
-        "testing",
-        "Automation"
-    ],
+    "categories": ["Continuous integration"],
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
